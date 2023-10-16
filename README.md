@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate full-stack developer (mostly backend)</h3>
+<h3 align="center">A passionate full-stack developer (80% backend)</h3>
 
 - 📫 How to reach me **mertturker99@gmail.com**
 - 🔭 I recently finished working on [Erasmus Without Paper](https://ewp-frontend.vercel.app/)
