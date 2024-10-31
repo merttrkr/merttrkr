@@ -6,7 +6,8 @@
 
 
 -  <a href="https://linkedin.com/in/mertturker" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertturker LinkedIn" height="20" width="20" </a>My LinkedIn
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertturker LinkedIn" height="15" width="15" />
+  </a> My LinkedIn
 
 
 
