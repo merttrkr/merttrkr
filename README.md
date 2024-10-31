@@ -5,9 +5,11 @@
 - 📝 My Latest Blog Post in [Medium](https://medium.com/@mertturker99/asynchronous-programming-in-asp-net-core-best-practices-and-pitfalls-9584dbd7a918)
 
 
-- My Linkedin <p align="left">
-<a href="https://linkedin.com/in/mertturker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertturker" height="10" width="10" /></a>
-</p>
+- My LinkedIn  
+  <a href="https://linkedin.com/in/mertturker" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertturker" height="20" width="20" />
+  </a>
+
 
 
 
